@@ -1,7 +1,5 @@
-# codeigniter3.x-HMVC
+# codeigniter3.x-HMVC - by tungns
 
-This is the combination between 3 CodeIgniter and HMVC Modular Extension (created by "tungns").
 
-Just download this version and start using.
 # codeigniter3.x-HMVC -> using webinaris.com
 
